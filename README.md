@@ -67,7 +67,7 @@ Mejorar la visibilidad de los productos a través de categorías destacadas en l
 *añadir video explicativo del proyecto.
 
 ### Autoras
-- Carolina
-- Karina
+- Carolina Delgado
+- Karina Smoje
 
 
