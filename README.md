@@ -16,12 +16,15 @@ En esta [carpeta](https://docs.google.com/document/d/1pYXAZqfQdREC_-ghvonq55jSam
 ## Resultados de la Investigación
 Los problemas y requerimientos que identificamos luego de realizar entrevistas con el cliente, y el usuario fueron los siguientes: 
 
-![home 8](https://user-images.githubusercontent.com/39053734/44541665-1087fc80-a6e1-11e8-995f-e55ee6d6e9ca.jpg)
+![home](https://user-images.githubusercontent.com/39053734/44551580-01fc0e00-a6fe-11e8-90e2-1dd949e42f29.jpg)
 
 Luego de realizar las entrevistas, descubrimos que los principales usuarios de Fairy Cake son personas que buscan productos de repostería personalizados tales como productos grez (dulces que son compatibles con el método grez), productos veganos, sin azúcar, sin gluten, y dulces tradicionales.
 A partir de esta base, identificamos dos arquetipos de usuarios, los cuales se muestran a continuación:
-![captura de pantalla de 2018-08-23 10-11-27](https://user-images.githubusercontent.com/39053734/44527462-40bda400-a6bd-11e8-9e09-4b83abea2380.png)
-![captura de pantalla de 2018-08-23 11-30-17](https://user-images.githubusercontent.com/39053734/44531756-ee35b500-a6c7-11e8-90c1-fbcd68a82874.png)
+![user1](https://user-images.githubusercontent.com/39053734/44551583-01fc0e00-a6fe-11e8-9eea-2fcf46c5928f.jpg)
+![journeymap cindy](https://user-images.githubusercontent.com/39053734/44551586-0294a480-a6fe-11e8-9730-f13aaee151f3.jpg)
+![user2](https://user-images.githubusercontent.com/39053734/44551584-0294a480-a6fe-11e8-87ea-ef292a0ac74f.jpg)
+![journeymap jorge](https://user-images.githubusercontent.com/39053734/44551587-0294a480-a6fe-11e8-827b-d2d5805d32e2.jpg)
+
 
 Finalmente, a partir de las necesidades de los usuarios y el cliente, y nuestra investigación de mercado, definimos nuestros principales objetivos que consisten en:
 
@@ -42,12 +45,12 @@ Para confiar en la empresa, el portal web tendrá registros visuales (o audiovis
 Para que la persona encuentre los productos que anda buscando, se integrará un input para búsqueda por palabras, y en la vista principal se presentarán las principales categorías de toda la gama de productos que ofrece Fairy Cake.
 
 ### Distribución de estos contenidos:
-![sitemap](https://user-images.githubusercontent.com/39053734/44526851-98f3a680-a6bb-11e8-9681-4ef405d6480c.jpg)
+![sitemap](https://user-images.githubusercontent.com/39053734/44552201-e7c32f80-a6ff-11e8-813a-7cb829a7a17e.jpg)
 
 
 ### Flujo de usuarios
 Este es flujo de usuario que deben hacer para terminar comprando en la web:
-***pasar en limpio en programa de edición
+![flujo de usuario2](https://user-images.githubusercontent.com/39053734/44551585-0294a480-a6fe-11e8-9089-c644233329bf.jpg)
  
 Cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
 * Facilita al cliente la vista de las categorías de los productos, un buscador y promociones que permiten incentivar la compra de los diversos productos que ofrece fairycake.
