@@ -35,14 +35,15 @@ Finalmente, a partir de las necesidades de los usuarios y el cliente, y nuestra 
 * Fidelizar al cliente con la marca FairyCake.
 
 ## Propuesta de valor
-Nuestra propuesta de valor es crear una plataforma donde se pueda visibilizar el servicio que ofrecen y organizar la gran cantidad de productos por categorías, además de tener una barra de búsqueda donde el usuario pueda escribir palabras claves respecto al producto de su interés, logrando que el proceso de compra sea rápido y sencillo.
+Nuestra propuesta de valor es crear una plataforma donde se pueda **visibilizar** el servicio que ofrecen y **organizar** la gran cantidad de productos por categorías, además de tener una barra de búsqueda donde el usuario pueda escribir palabras claves respecto al producto de su interés, logrando que el proceso de compra sea rápido y sencillo.
 
-Los contenidos que el usuario quiere ver son las fotos de los productos, las categoría de los productos, el precio,y los ingredientes.
+**Los contenidos que el usuario quiere ver** son las fotos de los productos, las categoría de los productos, el precio,y los ingredientes.
 
-Respecto a la información que buscarían para convencerse de comprar serían la vista de los precios junto a  cada producto y las promociones de días festivos.
-Para confiar en la empresa, el portal web tendrá registros visuales (o audiovisuales) de la forma en cómo se hacen los productos y quienes son las personas que preparan los productos, también se dará a conocer la trayectoria y conocimiento que tienen las personas que forman parte del emprendimiento.
+Respecto a la **información que buscarían para convencerse de comprar** serían la vista de los precios junto a  cada producto y las promociones de días festivos.
 
-Para que la persona encuentre los productos que anda buscando, se integrará un input para búsqueda por palabras, y en la vista principal se presentarán las principales categorías de toda la gama de productos que ofrece Fairy Cake.
+**Para confiar en la empresa**, el portal web tendrá registros visuales (o audiovisuales) de la forma en cómo se hacen los productos y quienes son las personas que preparan los productos, también se dará a conocer la trayectoria y conocimiento que tienen las personas que forman parte del emprendimiento.
+
+**Para que la persona encuentre los productos que anda buscando**, se integrará un input para búsqueda por palabras, y en la vista principal se presentarán las principales categorías de toda la gama de productos que ofrece Fairy Cake.
 
 ### Distribución de estos contenidos:
 ![sitemap](https://user-images.githubusercontent.com/39053734/44552201-e7c32f80-a6ff-11e8-813a-7cb829a7a17e.jpg)
