@@ -16,7 +16,7 @@ En esta [carpeta](https://docs.google.com/document/d/1pYXAZqfQdREC_-ghvonq55jSam
 ## Resultados de la Investigación
 Los problemas y requerimientos que identificamos luego de realizar entrevistas con el cliente, y el usuario fueron los siguientes: 
 
-![home 9](https://user-images.githubusercontent.com/39053734/44528536-305af880-a6c0-11e8-9359-1c7537877541.jpg)
+![home 8](https://user-images.githubusercontent.com/39053734/44541665-1087fc80-a6e1-11e8-995f-e55ee6d6e9ca.jpg)
 
 Luego de realizar las entrevistas, descubrimos que los principales usuarios de Fairy Cake son personas que buscan productos de repostería personalizados tales como productos grez (dulces que son compatibles con el método grez), productos veganos, sin azúcar, sin gluten, y dulces tradicionales.
 A partir de esta base, identificamos dos arquetipos de usuarios, los cuales se muestran a continuación:
