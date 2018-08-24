@@ -68,7 +68,7 @@ Mejorar la visibilidad de los productos a través de categorías destacadas en l
 [Marvel Handoff](https://marvelapp.com/3c74c53/screen/46979300/handoff)
  
 ### Conoce nuestro producto
-*añadir video explicativo del proyecto.
+[mira aquí el video](https://www.useloom.com/share/7a811892645e460cbc478549b3e3a1ec)
 
 ### Autoras
 - Carolina Delgado
