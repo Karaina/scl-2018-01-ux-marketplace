@@ -1,5 +1,6 @@
 
 # Portal e-commerce Fairy Cake
+![fairycake](https://user-images.githubusercontent.com/39053734/44663395-cd7e9f80-a9e6-11e8-9531-534a602100c1.png)
 
 ## Preámbulo
 [FairyCake](https://www.instagram.com/fairy._.cake/) es un emprendimiento familiar de repostería que nace hace más de una década, cuando la dueña del emprendimiento comenzó a vender sus primeros alfajores a sus compañeros de colegio. Con el tiempo, el emprendimiento fue creciendo, y añadiendo canales de venta en línea (facebook e instagram) y stands temporales en eventos y showroom en todo Chile. Actualmente su dueña compatibiliza sus estudios universitarios con su trabajo en la tienda, y busca expandir su línea de productos para llegar a más personas.  
